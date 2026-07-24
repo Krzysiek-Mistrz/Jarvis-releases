@@ -39,8 +39,10 @@ Watch Jarvis in action:
 
 ### Linux
 
-We offer multiple formats to run Jarvis on your favorite Linux distribution:
+> NOTE! #IMPORTANT
+> Please make sure that on ur linux distro u install one of these tts services: espeak-ng / espeak / spd-say as jarvis will try 2 use one of these to communicat in speak mode :)
 
+We offer multiple formats to run Jarvis on your favorite Linux distribution:
 #### 1. AppImage (Recommended)
 The easiest way to run Jarvis on any Linux distribution (Ubuntu, Fedora, Arch, etc.).
 1. Download the latest `Jarvis-x86_64.AppImage` from the [Releases](https://github.com/Krzysiek-Mistrz/Jarvis-releases/releases) page.
@@ -105,6 +107,5 @@ For full details, please refer to our official privacy policy. Please note that 
 ---
 
 ## Main Repository
-The core application project and issue tracker are located in the private main repository:
-[Krzysiek-Mistrz/jarvis_win_android](https://github.com/Krzysiek-Mistrz/jarvis_win_android)
+The core application project and issue tracker are located in the closed private repo. 
 It's closed code as it should be for most apps utilizing their own security-important code (Stripe payments, encryption mechanisms, ...).
